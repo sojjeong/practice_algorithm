@@ -11,3 +11,4 @@
 - 2021.04.13 : 삼성 SW Expert Academy 4835 - 구간합 / prefix_sum.py
 - 2021.04.17 : 삼성 SW Expert Academy 4836 - 색칠하기 / painting.py
 - 2021.04.17 : 삼성 SW Expert Academy 4837 - 부분집합의 합 / subset_sum.py
+- 2021.04.21 : 삼성 SW Expert Academy 4839 - 이진 탐색 / binary_search.py
