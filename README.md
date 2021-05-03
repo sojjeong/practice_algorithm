@@ -15,3 +15,4 @@
 - 2021.04.23 : 삼성 SW Expert Academy 4843 - 특별한 정렬 / special_sort.py
 - 2021.05.03 : 삼성 SW Expert Academy 4869 - 종이 붙이기 / stick_paper.py
 - 2021.05.03 : 삼성 SW Expert Academy 4866 - 괄호 검사 / bracket.py
+- 2021.05.04 : https://programmers.co.kr/learn/courses/30/lessons/64061 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임 / crane.py
