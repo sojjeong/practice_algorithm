@@ -16,3 +16,5 @@
 - 2021.05.03 : 삼성 SW Expert Academy 4869 - 종이 붙이기 / stick_paper.py
 - 2021.05.03 : 삼성 SW Expert Academy 4866 - 괄호 검사 / bracket.py
 - 2021.05.04 : https://programmers.co.kr/learn/courses/30/lessons/64061 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임 / crane.py
+- 2021.05.05 : https://programmers.co.kr/learn/courses/30/lessons/67256 2020 카카오 인턴십 - 키패드 누르기 / keypad.py
+- 2021.05.24 : https://programmers.co.kr/learn/courses/30/lessons/67258 2019 카카오 개발자 겨울 인턴십 - 보석 쇼핑 / gems.py (solution1,2,3,4,5는 실패한 기록. final_solution 은 다른 사람 풀이 참고)
