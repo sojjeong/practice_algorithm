@@ -20,3 +20,7 @@
 - 2021.05.24 : https://programmers.co.kr/learn/courses/30/lessons/67258 2019 카카오 개발자 겨울 인턴십 - 보석 쇼핑 / gems.py (solution1,2,3,4,5는 실패한 기록. final_solution 은 다른 사람 풀이 참고)
 - 2021.05.24 : https://programmers.co.kr/learn/courses/30/lessons/64065 2019 카카오 개발자 겨울 인턴십 - 튜플 / tuple.py
 - 2021.05.25 : https://programmers.co.kr/learn/courses/30/lessons/67257 2020 카카오 인턴십 - 수식 최대화 / max_equation.py
+- 2021.05.27 : https://programmers.co.kr/learn/courses/30/lessons/64064 2019 카카오 개발자 겨울 인턴십 - 불량 사용자 / banned_user.py (다른 사람 풀이 참고 및 정리)
+- 2021.05.28 : https://www.acmicpc.net/problem/1292 백준 1292번 쉽게 푸는 문제 / easy_solve.py
+- 2021.05.28 : https://programmers.co.kr/learn/courses/30/lessons/43165 코딩테스트 연습, 깊이/너비 우선 탐색 - 타겟 넘버 / target_number.py
+- 2021.05.29 : https://programmers.co.kr/learn/courses/30/lessons/43162 코딩테스트 연습, 깊이/너비 우선 탐색 - 네트워크 / network.py
