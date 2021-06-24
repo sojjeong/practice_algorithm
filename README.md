@@ -24,3 +24,4 @@
 - 2021.05.28 : https://www.acmicpc.net/problem/1292 백준 1292번 쉽게 푸는 문제 / easy_solve.py
 - 2021.05.28 : https://programmers.co.kr/learn/courses/30/lessons/43165 코딩테스트 연습, 깊이/너비 우선 탐색 - 타겟 넘버 / target_number.py
 - 2021.05.29 : https://programmers.co.kr/learn/courses/30/lessons/43162 코딩테스트 연습, 깊이/너비 우선 탐색 - 네트워크 / network.py
+- 2021.06.24 : https://programmers.co.kr/learn/courses/30/lessons/43163 코딩테스트 연습, 깊이/너비 우선 탐색 - 단어 변환 / trans_word.py
