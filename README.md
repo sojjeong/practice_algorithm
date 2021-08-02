@@ -1,9 +1,9 @@
-# solve_algorithm
+# practice_algorithm
 
-알고리즘 코딩
+알고리즘 코딩 연습
 
 # Update
-
+### Pathon
 - 2020.09.23 : https://www.acmicpc.net/problem/1181 백준 1181번 단어 정렬 / word_sorting.py
 - 2021.04.02 : https://www.acmicpc.net/problem/4963 백준 4963번 섬의 갯수 / num_island.py
 - 2021.04.08 : 삼성 SW Expert Academy 4831 - 전기버스 / electric_bus.py
@@ -25,3 +25,6 @@
 - 2021.05.28 : https://programmers.co.kr/learn/courses/30/lessons/43165 코딩테스트 연습, 깊이/너비 우선 탐색 - 타겟 넘버 / target_number.py
 - 2021.05.29 : https://programmers.co.kr/learn/courses/30/lessons/43162 코딩테스트 연습, 깊이/너비 우선 탐색 - 네트워크 / network.py
 - 2021.06.24 : https://programmers.co.kr/learn/courses/30/lessons/43163 코딩테스트 연습, 깊이/너비 우선 탐색 - 단어 변환 / trans_word.py
+
+### Java
+- 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
