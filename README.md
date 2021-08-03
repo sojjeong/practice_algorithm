@@ -28,4 +28,4 @@
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
-- 2021.08.03 : 삼성 SW Expert Academy 1208 - Flatten / sweq1208.java
+- 2021.08.03 : 삼성 SW Expert Academy 1208 - Flatten / swea1208.java
