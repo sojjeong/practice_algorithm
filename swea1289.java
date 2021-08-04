@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import java.io.FileInputStream;
 
-class Solution
+// 2021.08.02 원재의 메모리 복구하기
+class swea1289
 {
 	public static void main(String args[]) throws Exception
 	{

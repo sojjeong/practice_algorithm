@@ -29,3 +29,7 @@
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
 - 2021.08.03 : 삼성 SW Expert Academy 1208 - Flatten / swea1208.java
+- 2021.08.03 : 삼성 SW Expert Academy 1954 - 달팽이 숫자 / swea1954.java
+- 2021.08.04 : 삼성 SW Expert Academy 1873 - 상호의 배틀필드 / swea1873.java
+- 2021.08.04 : 삼성 SW Expert Academy 2805 - 농작물 수확하기 / swea2805.java
+- 2021.08.04 : 삼성 SW Expert Academy 2001 - 파리 퇴치 / swea2001.java

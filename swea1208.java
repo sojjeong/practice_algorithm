@@ -3,7 +3,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-class Solution
+// 2021.08.03 Flatten
+class swea1208
 {
 	public static void main(String args[]) throws Exception
 	{
