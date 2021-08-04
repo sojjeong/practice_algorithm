@@ -1,3 +1,4 @@
+package Java;
 import java.util.Scanner;
 
 // 2021.08.02 원재의 메모리 복구하기
