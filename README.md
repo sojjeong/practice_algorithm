@@ -33,3 +33,6 @@
 - 2021.08.04 : 삼성 SW Expert Academy 1873 - 상호의 배틀필드 / swea1873.java
 - 2021.08.04 : 삼성 SW Expert Academy 2805 - 농작물 수확하기 / swea2805.java
 - 2021.08.04 : 삼성 SW Expert Academy 2001 - 파리 퇴치 / swea2001.java
+- 2021.08.05 : 삼성 SW Expert Academy 1218 - 괄호 짝짓기 / swea1218.java
+- 2021.08.05 : 삼성 SW Expert Academy 1225 - 암호 생성기 / swea1225.java
+- 2021.08.05 : https://www.acmicpc.net/problem/2493 백준 2493 - 탑 / BOJ2493.java
