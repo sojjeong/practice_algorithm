@@ -1,4 +1,4 @@
-package com.ssafy.algo;
+package Java.BOJ;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

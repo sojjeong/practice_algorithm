@@ -1,4 +1,4 @@
-package Java;
+package Java.SWEA;
 import java.util.Scanner;
 
 // 2021.08.03 달팽이 숫자

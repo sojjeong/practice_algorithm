@@ -1,8 +1,7 @@
-package com.ssafy.ws_0805;
+package Java.SWEA;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -13,7 +12,6 @@ import java.util.StringTokenizer;
 public class swea1225 {
     // switch, if-else -> map 구조로 간단하게 할 수 있을 것!
     public static void main(String[] args) throws IOException{
-        System.setIn(new FileInputStream("C:\\Users\\Sojjeong\\Downloads\\swea1225.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringBuilder sb = new StringBuilder();

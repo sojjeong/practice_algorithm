@@ -1,4 +1,4 @@
-package Java;
+package Java.SWEA;
 import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Scanner;

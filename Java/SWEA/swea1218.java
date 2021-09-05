@@ -1,8 +1,7 @@
-package com.ssafy.ws_0805;
+package Java.SWEA;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -12,7 +11,6 @@ import java.util.Stack;
 
 public class swea1218 {
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("C:\\Users\\Sojjeong\\Downloads\\swea1218.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringBuilder sb = new StringBuilder();
