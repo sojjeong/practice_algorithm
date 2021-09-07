@@ -38,3 +38,4 @@
 - 2021.08.05 : https://www.acmicpc.net/problem/2493 백준 2493 - 탑 / BOJ2493.java
 ---
 - 2021.08.05 ~ 09.05 알고리즘 자바, 파이썬 업로드
+- 2021.09.07 : https://programmers.co.kr/learn/courses/30/lessons/60058 코딩테스트 연습, 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 / transBracket.py
