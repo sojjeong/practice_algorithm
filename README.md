@@ -39,3 +39,4 @@
 ---
 - 2021.08.05 ~ 09.05 알고리즘 자바, 파이썬 업로드
 - 2021.09.07 : https://programmers.co.kr/learn/courses/30/lessons/60058 코딩테스트 연습, 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 / transBracket.py
+- 2021.09.14 : https://www.acmicpc.net/problem/1463 백준 1463 - 1로 만들기 / BOJ1463.java
