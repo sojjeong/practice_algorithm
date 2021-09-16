@@ -38,6 +38,8 @@
 - 2021.08.05 : https://www.acmicpc.net/problem/2493 백준 2493 - 탑 / BOJ2493.java
 ---
 - 2021.08.05 ~ 09.05 알고리즘 자바, 파이썬 업로드
-- 2021.09.07 : https://programmers.co.kr/learn/courses/30/lessons/60058 코딩테스트 연습, 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 / transBracket.py
+- 2021.09.07 : https://programmers.co.kr/learn/courses/30/lessons/60058 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 / transBracket.py
 - 2021.09.14 : https://www.acmicpc.net/problem/1463 백준 1463 - 1로 만들기 / BOJ1463.java
 - 2021.09.15 : 삼성 SW Expert Academy 3124 - 최소 스패닝 트리 / swea3124.java (kruskal 사용)
+- 2021.09.16 : https://www.acmicpc.net/problem/14719 백준 14719 - 빗물 / BOJ14719.py
+- 2021.09.16 : https://programmers.co.kr/learn/courses/30/lessons/72413 2021 KAKAO BLIND RECRUITMENT - 합승 택시 요금 / taxiCharge.py
