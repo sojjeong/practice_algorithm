@@ -43,3 +43,4 @@
 - 2021.09.15 : 삼성 SW Expert Academy 3124 - 최소 스패닝 트리 / swea3124.java (kruskal 사용)
 - 2021.09.16 : https://www.acmicpc.net/problem/14719 백준 14719 - 빗물 / BOJ14719.py
 - 2021.09.16 : https://programmers.co.kr/learn/courses/30/lessons/72413 2021 KAKAO BLIND RECRUITMENT - 합승 택시 요금 / taxiCharge.py
+- 2021.09.17 : 삼성 SW Expert Academy 1767 - 프로세서 연결하기 / swea1767.java
