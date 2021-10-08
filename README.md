@@ -28,6 +28,7 @@
 - 2021.09.07 : https://programmers.co.kr/learn/courses/30/lessons/60058 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 / transBracket.py
 - 2021.09.16 : https://www.acmicpc.net/problem/14719 백준 14719 - 빗물 / BOJ14719.py
 - 2021.09.16 : https://programmers.co.kr/learn/courses/30/lessons/72413 2021 KAKAO BLIND RECRUITMENT - 합승 택시 요금 / taxiCharge.py
+- 2021.10.08 : https://www.acmicpc.net/problem/17471 백준 17471 - 게리맨더링 / BOJ17471.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
