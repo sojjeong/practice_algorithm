@@ -29,6 +29,7 @@
 - 2021.09.16 : https://www.acmicpc.net/problem/14719 백준 14719 - 빗물 / BOJ14719.py
 - 2021.09.16 : https://programmers.co.kr/learn/courses/30/lessons/72413 2021 KAKAO BLIND RECRUITMENT - 합승 택시 요금 / taxiCharge.py
 - 2021.10.08 : https://www.acmicpc.net/problem/17471 백준 17471 - 게리맨더링 / BOJ17471.py
+- 2021.12.05 : https://www.acmicpc.net/problem/1956 백준 1956 - 운동 / BOJ1956.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
@@ -47,4 +48,3 @@
 - 2021.09.17 : 삼성 SW Expert Academy 1767 - 프로세서 연결하기 / swea1767.java
 - 2021.09.22 : https://www.acmicpc.net/problem/14502 백준 14502 - 연구소 / BOJ14502.java
 - 2021.09.22 : https://www.acmicpc.net/problem/17472 백준 17472 - 다리 만들기 2 / BOJ17472.java
-- 2021.12.05 : https://www.acmicpc.net/problem/1956 백준 1956 - 운동 / BOJ1956.py
