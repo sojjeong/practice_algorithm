@@ -47,3 +47,4 @@
 - 2021.09.17 : 삼성 SW Expert Academy 1767 - 프로세서 연결하기 / swea1767.java
 - 2021.09.22 : https://www.acmicpc.net/problem/14502 백준 14502 - 연구소 / BOJ14502.java
 - 2021.09.22 : https://www.acmicpc.net/problem/17472 백준 17472 - 다리 만들기 2 / BOJ17472.java
+- 2021.12.05 : https://www.acmicpc.net/problem/1956 백준 1956 - 운동 / BOJ1956.py
