@@ -30,6 +30,8 @@
 - 2021.09.16 : https://programmers.co.kr/learn/courses/30/lessons/72413 2021 KAKAO BLIND RECRUITMENT - 합승 택시 요금 / taxiCharge.py
 - 2021.10.08 : https://www.acmicpc.net/problem/17471 백준 17471 - 게리맨더링 / BOJ17471.py
 - 2021.12.05 : https://www.acmicpc.net/problem/1956 백준 1956 - 운동 / BOJ1956.py
+- 2021.12.06 : 삼성 SW Expert Academy 1865 - 동철이의 일 분배 / swea1865.py
+- 2021.12.06 : https://www.acmicpc.net/problem/19583 백준 19583 - 싸이버개강총회 / BOJ19583.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
