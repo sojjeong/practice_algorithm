@@ -33,6 +33,8 @@
 - 2021.12.06 : 삼성 SW Expert Academy 1865 - 동철이의 일 분배 / swea1865.py
 - 2021.12.06 : https://www.acmicpc.net/problem/19583 백준 19583 - 싸이버개강총회 / BOJ19583.py
 - 2021.12.07 : https://www.acmicpc.net/problem/12886 백준 12886 - 돌 그룹 / BOJ12886.py
+- 2021.12.08 : https://www.acmicpc.net/problem/2839 백준 2839 - 설탕 배달 / BOJ2839.py
+- 2021.12.08 : https://www.acmicpc.net/problem/17478 백준 17478 - 재귀함수가 뭔가요? / BOJ17478.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
