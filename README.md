@@ -35,6 +35,8 @@
 - 2021.12.07 : https://www.acmicpc.net/problem/12886 백준 12886 - 돌 그룹 / BOJ12886.py
 - 2021.12.08 : https://www.acmicpc.net/problem/2839 백준 2839 - 설탕 배달 / BOJ2839.py
 - 2021.12.08 : https://www.acmicpc.net/problem/17478 백준 17478 - 재귀함수가 뭔가요? / BOJ17478.py
+- 2021.12.08 : https://www.acmicpc.net/problem/6588 백준 6588 - 골드바흐의 추측 / BOJ6588.py
+- 2021.12.11 : https://www.acmicpc.net/problem/1074 백준 1074 - Z / BOJ1074.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
