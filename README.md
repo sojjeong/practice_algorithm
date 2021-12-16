@@ -39,6 +39,7 @@
 - 2021.12.11 : https://www.acmicpc.net/problem/1074 백준 1074 - Z / BOJ1074.py
 - 2021.12.12 : https://www.acmicpc.net/problem/1504 백준 1504 - 특정한 최단 경로 / BOJ1504.py
 - 2021.12.13 : https://www.acmicpc.net/problem/16113 백준 16113 - 시그널 / BOJ16113.py
+- 2021.12.16 : https://www.acmicpc.net/problem/1826 백준 1826 - 연료 채우기 / BOJ1826.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
