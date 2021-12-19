@@ -41,6 +41,7 @@
 - 2021.12.13 : https://www.acmicpc.net/problem/16113 백준 16113 - 시그널 / BOJ16113.py
 - 2021.12.16 : https://www.acmicpc.net/problem/1826 백준 1826 - 연료 채우기 / BOJ1826.py
 - 2021.12.17 : https://www.acmicpc.net/problem/9465 백준 9465 - 스티커 / BOJ9465.py
+- 2021.12.19 : https://www.acmicpc.net/problem/2606 백준 2606 - 바이러스 / BOJ2606.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
