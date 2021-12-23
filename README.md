@@ -44,6 +44,7 @@
 - 2021.12.19 : https://www.acmicpc.net/problem/2606 백준 2606 - 바이러스 / BOJ2606.py
 - 2021.12.20 : https://www.acmicpc.net/problem/14500 백준 14500 - 테트로미노 / BOJ14500.py
 - 2021.12.22 : https://www.acmicpc.net/problem/3085 백준 3085 - 사탕 게임 / BOJ3085.py
+- 2021.12.23 : https://www.acmicpc.net/problem/10836 백준 10836 - 여왕벌 / BOJ10836.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
