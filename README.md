@@ -2,6 +2,8 @@
 
 알고리즘 코딩 연습
 
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=tip9004)](https://solved.ac/profile/tip9004)
+
 # Update
 ### Pathon
 - 2020.09.23 : https://www.acmicpc.net/problem/1181 백준 1181번 단어 정렬 / word_sorting.py
@@ -45,6 +47,8 @@
 - 2021.12.20 : https://www.acmicpc.net/problem/14500 백준 14500 - 테트로미노 / BOJ14500.py
 - 2021.12.22 : https://www.acmicpc.net/problem/3085 백준 3085 - 사탕 게임 / BOJ3085.py
 - 2021.12.23 : https://www.acmicpc.net/problem/10836 백준 10836 - 여왕벌 / BOJ10836.py
+- 2021.12.29 : https://www.acmicpc.net/problem/9935 백준 9935 - 문자열 폭발 / BOJ9935.py
+- 2021.12.29 : https://www.acmicpc.net/problem/11053 백준 11053 - 가장 긴 증가하는 부분 수열 / BOJ11053.py
 
 ### Java
 - 2021.08.02 : 삼성 SW Expert Academy 1289 - 원재의 메모리 복구하기 / swea1289.java
