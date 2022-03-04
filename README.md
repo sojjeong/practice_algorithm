@@ -58,6 +58,7 @@
 | 2022.01.04 | 백준 2477 - 참외밭                                            | [BOJ2477.py](Python/BOJ/BOJ2477.py)                     |
 | 2022.03.01 | 백준 2910 - 빈도정렬                                          | [BOJ2910.py](Python/BOJ/BOJ2910.py)                     |
 | 2022.03.03 | 백준 14501 - 퇴사                                             | [BOJ14501.py](Python/BOJ/BOJ14501.py)                   |
+| 2022.03.04 | 백준 15961 - 회전 초밥                                        | [BOJ15961.py](Python/BOJ/BOJ15961.py)                   |
 
 ### Java
 
