@@ -12,22 +12,22 @@
 
 | 날짜       | 문제                                                          | 파일                                                    |
 | ---------- | ------------------------------------------------------------- | ------------------------------------------------------- |
-| 2020.09.23 | 백준 1181 - 단어 정렬                                         | word_sorting.py                                         |
-| 2021.04.02 | 백준 4963 - 섬의 갯수                                         | num_island.py                                           |
-| 2021.04.08 | 삼성 SW Expert Academy 4831 - 전기버스                        | electric_bus.py                                         |
-| 2021.04.12 | 삼성 SW Expert Academy 4834 - 숫자 카드                       | number_card.py                                          |
-| 2021.04.13 | 삼성 SW Expert Academy 4835 - 구간합                          | prefix_sum.py                                           |
-| 2021.04.17 | 삼성 SW Expert Academy 4836 - 색칠하기                        | painting.py                                             |
-| 2021.04.17 | 삼성 SW Expert Academy 4837 - 부분집합의 합                   | subset_sum.py                                           |
-| 2021.04.21 | 삼성 SW Expert Academy 4839 - 이진 탐색                       | binary_search.py                                        |
-| 2021.04.23 | 삼성 SW Expert Academy 4843 - 특별한 정렬                     | special_sort.py                                         |
-| 2021.05.03 | 삼성 SW Expert Academy 4869 - 종이 붙이기                     | stick_paper.py                                          |
-| 2021.05.03 | 삼성 SW Expert Academy 4866 - 괄호 검사                       | bracket.py                                              |
-| 2021.05.04 | 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임         | crane.py                                                |
-| 2021.05.05 | 2020 카카오 인턴십 - 키패드 누르기                            | keypad.py                                               |
-| 2021.05.24 | 2019 카카오 개발자 겨울 인턴십 - 보석 쇼핑                    | gems.py(solution1,2,3,4,5는 실패한 기록)                |
-| 2021.05.24 | 2019 카카오 개발자 겨울 인턴십 - 튜플                         | tuple.py                                                |
-| 2021.05.25 | 2020 카카오 인턴십 - 수식 최대화                              | max_equation.py                                         |
+| 2020.09.23 | 백준 1181 - 단어 정렬                                         | [word_sorting.py](Python/BOJ/word_sorting.py)           |
+| 2021.04.02 | 백준 4963 - 섬의 갯수                                         | [num_island.py](Python/BOJ/num_island.py)               |
+| 2021.04.08 | 삼성 SW Expert Academy 4831 - 전기버스                        | [electric_bus.py](Python/SWEA/electric_bus.py)          |
+| 2021.04.12 | 삼성 SW Expert Academy 4834 - 숫자 카드                       | [number_card.py](Python/SWEA/number_card.py)            |
+| 2021.04.13 | 삼성 SW Expert Academy 4835 - 구간합                          | [prefix_sum.py](Python/SWEA/prefix_sum.py)              |
+| 2021.04.17 | 삼성 SW Expert Academy 4836 - 색칠하기                        | [painting.py](Python/SWEA/painting.py)                  |
+| 2021.04.17 | 삼성 SW Expert Academy 4837 - 부분집합의 합                   | [subset_sum.py](Python/SWEA/subset_sum.py)              |
+| 2021.04.21 | 삼성 SW Expert Academy 4839 - 이진 탐색                       | [binary_search.py](Python/SWEA/binary_search.py)        |
+| 2021.04.23 | 삼성 SW Expert Academy 4843 - 특별한 정렬                     | [special_sort.py](Python/SWEA/special_sort.py)          |
+| 2021.05.03 | 삼성 SW Expert Academy 4869 - 종이 붙이기                     | [stick_paper.py](Python/SWEA/stick_paper.py)            |
+| 2021.05.03 | 삼성 SW Expert Academy 4866 - 괄호 검사                       | [bracket.py](Python/SWEA/bracket.py)                    |
+| 2021.05.04 | 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임         | [crane.py](Python/Kakao/crane.py)                       |
+| 2021.05.05 | 2020 카카오 인턴십 - 키패드 누르기                            | [keypad.py](Python/Kakao/keypad.py)                     |
+| 2021.05.24 | 2019 카카오 개발자 겨울 인턴십 - 보석 쇼핑                    | [gems.py](Python/Kakao/gems.py)                         |
+| 2021.05.24 | 2019 카카오 개발자 겨울 인턴십 - 튜플                         | [tuple.py](Python/Kakao/tuple.py)                       |
+| 2021.05.25 | 2020 카카오 인턴십 - 수식 최대화                              | [max_equation.py](Python/Kakao/max_equation.py)         |
 | 2021.05.27 | 2019 카카오 개발자 겨울 인턴십 - 불량 사용자                  | [banned_user.py](Python/Kakao/banned_user.py)           |
 | 2021.05.28 | 백준 1292 - 쉽게 푸는 문제                                    | [easy_solve.py](Python/BOJ/easy_solve.py)               |
 | 2021.05.28 | 프로그래머스 코딩테스트 연습, 깊이/너비 우선 탐색 - 타겟 넘버 | [target_number.py](Python/Programmers/target_number.py) |
@@ -63,6 +63,7 @@
 | 2022.03.10 | 백준 1931 - 회의실 배정                                       | [BOJ1934.py](Python/BOJ/BOJ1931.py)                     |
 | 2022.03.11 | 백준 2667 - 단지번호붙히기                                    | [BOJ2667.py](Python/BOJ/BOJ2667.py)                     |
 | 2022.03.14 | 백준 1158 - 요세푸스 문제                                     | [BOJ1158.py](Python/BOJ/BOJ1158.py)                     |
+| 2022.03.18 | 백준 1541 - 잃어버린 괄호                                     | [BOJ1541.py](Python/BOJ/BOJ1541.py)                     |
 
 ### Java
 
